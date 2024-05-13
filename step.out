@@ -1,0 +1,36 @@
+ ** Finished **
+ Executed with        : bla1D serial      
+ Time now             :      500.000000000
+ Started with         :        0.000000000
+ Delta                :      500.000000000
+ Iterations           :  34656
+ Started              : 10-MAY-2024 12:50:12
+ Ended                : 10-MAY-2024 13:05:24
+
+ Total CPU time       :   895.69134099999997       seconds
+ Total wallclock time :   911.48799991607666       seconds
+ Average time step    :  0.10517439980916370     
+
+ Compiled for         :   1 processors
+                      :   8 threads
+ Running on           :   1 OMP processors
+ Running on           :   1 MPI processors
+ Running with max.    :   1 OMP threads
+
+                        wall time            CPU time   Wall time per it.
+ LES        :           0.00299990          0.00835900          0.00000035
+ tau_ij     :           0.00500011          0.00816100          0.00000058
+ statistics :          17.06799889         17.03561300          0.00196999
+ nonlin     :         558.24598634        557.64842000          0.06443282
+ particles  :           0.00500023          0.00899800          0.00000058
+ linear     :         304.73001635        304.37068100          0.03517198
+ IO         :          15.44999921          1.14782600          0.00178324
+ trip       :           0.00600004          0.00854300          0.00000069
+ ffun+mhd   :           0.01000011          0.01136000          0.00000115
+ CFL        :           0.03899920          0.03650800          0.00000450
+ planes     :           0.01000023          0.00933000          0.00000115
+ press      :          15.18099868         15.16738700          0.00175219
+ rest       :           0.47800064          0.14933200          0.00005517
+ startup    :           0.09099996          0.04784000
+ shutdown   :           0.16600001          0.03298300
+ sum        :         911.48799992        895.69134100          0.10517440
